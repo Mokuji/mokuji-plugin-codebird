@@ -1,0 +1,3 @@
+[submodule "codebird-php"]
+	path = codebird-php
+	url = git@github.com:mynetx/codebird-php.git
